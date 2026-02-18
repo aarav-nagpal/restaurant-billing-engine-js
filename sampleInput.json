@@ -1,0 +1,15 @@
+{
+  "id": "B1",
+  "billNumber": 10,
+  "customerName": "CodeQuotient",
+  "billItems": [
+    {
+      "id": "item1",
+      "quantity": 2,
+      "discount": {
+        "rate": 10,
+        "isInPercent": true
+      }
+    }
+  ]
+}
